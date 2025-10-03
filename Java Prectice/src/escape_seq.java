@@ -1,0 +1,12 @@
+public class escape_seq
+{
+    public static void main(String[] args) {
+        System.out.println("Hello Rutvik \bBabariya");
+
+//        System.out.println(" *\n * * \n * * * \n * * * * \n * * * * * ");
+
+//        System.out.println(" * * * * * \n * * * * \n * * * \n * * \n *");
+
+        System.out.println("     *\n    * *\n   * * *\n  * * * *\n * * * * *\n");
+    }
+}
